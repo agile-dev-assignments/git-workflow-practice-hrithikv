@@ -1,5 +1,4 @@
 # Article
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
 
 ## Link
 https://arstechnica.com/tech-policy/2020/02/employers-should-expand-not-cut-telework-into-the-future/
